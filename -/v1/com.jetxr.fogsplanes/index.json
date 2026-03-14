@@ -1,0 +1,7 @@
+{
+  "name": "com.jetxr.fogsplanes",
+  "version": "1.0.0",
+  "displayName": "Fogs Planes",
+  "description": "Planes with Fogs",
+  "type": "library"
+}
